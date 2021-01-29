@@ -4,8 +4,8 @@ Four layers: IOT devices, network, data process, data services.
    - Data processing: 
       + Contains server and IoT device. 
       + Server will the user's IoT device to take a picture then process the image using Object Detection by detecting and counting the number of fruits in the fridge .
-      + (insert here database). 
       + It will send the results back to the server together with suggestions.
+      + (insert here database). 
    - Data service: 
       + Mainly use Microsoft. Azure SQL server is a Microsoft product. 
       + This data server helps to store the data. 
