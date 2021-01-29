@@ -1,5 +1,5 @@
 # Current-Topic
-Intro: What is your topic ? What will you do ?
+Intro: What is your topic? (Describe it)
 Four layers: IOT devices, network, data process, data services.
    - Data processing: 
       + Contains server and IoT device. 
