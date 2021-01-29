@@ -1,6 +1,6 @@
 # Current-Topic
-Intro: What is your topic? What will you do?
-Four layers:IOT devices, network, data process, data services.
+Intro: What is your topic ? What will you do ?
+Four layers: IOT devices, network, data process, data services.
    - Data processing: 
       + Contains server and IoT device. 
       + Server will the user's IoT device to take a picture then process the image using Object Detection by detecting and counting the number of fruits in the fridge .
